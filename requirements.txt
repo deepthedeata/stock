@@ -2,4 +2,4 @@ pandas
 numpy
 yfinance
 pyplot
-fbprophet
+prophet
