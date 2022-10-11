@@ -1,5 +1,5 @@
 yfinance
-prophet
+fbprophet
 pip
 pandas
 numpy
