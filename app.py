@@ -12,7 +12,7 @@ from prophet.plot import plot_plotly
 from plotly import graph_objs as go
 
 START = "2015-01-01"
-TODAY = date.today().strftime("%Y-%m-%d")
+TODAY = date.today().strftime("%Y-%m-%d %H:%M:%S")
 
 st.title("Stock Prediction App")
 
